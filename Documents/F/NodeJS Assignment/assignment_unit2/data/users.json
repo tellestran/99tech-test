@@ -1,0 +1,21 @@
+[
+  {
+    "username": "john",
+    "password": "$2a$10$13ouMMbiEUQjmXGIfDpMqObiK5Z1fqmVrrv8sGn/1QKR65vVXqiFW"
+  },
+  {
+    "username": "john123",
+    "password": "$2a$10$4lHJ0WwGDag0znh90Q9mMuip.enQTUdDrjO.1.g/OjgsHAZRpsEkK",
+    "employeeNumber": 10
+  },
+  {
+    "username": "john",
+    "password": "$2a$10$IxIt0SxLcBtSHpycHjs3LuSsAl11dGg1nVqkxV3q3UeSSDuY0hkt.",
+    "employeeNumber": 1
+  },
+  {
+    "username": "tien",
+    "password": "$2a$10$P/qV4095mlGpHdbi9pNuZucXNF1.NtU0PXDQaQrcc6/l9bdA0Zvvu",
+    "employeeNumber": 10
+  }
+]
